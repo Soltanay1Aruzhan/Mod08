@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod08DZ", "Mod08DZ\Mod08DZ.csproj", "{771E25CA-B1A1-4287-977E-F65B1C1ABB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771E25CA-B1A1-4287-977E-F65B1C1ABB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771E25CA-B1A1-4287-977E-F65B1C1ABB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771E25CA-B1A1-4287-977E-F65B1C1ABB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771E25CA-B1A1-4287-977E-F65B1C1ABB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259B68E0-5FF6-4513-A6A0-DC2D0C58663E}
+	EndGlobalSection
+EndGlobal

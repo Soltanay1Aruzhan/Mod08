@@ -1,0 +1,7 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\bin\Debug\Mod08prac.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\bin\Debug\Mod08prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\bin\Debug\Mod08prac.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\obj\Debug\Mod08prac.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\obj\Debug\Mod08prac.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\obj\Debug\Mod08prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod08prac\Mod08prac\obj\Debug\Mod08prac.pdb
